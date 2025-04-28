@@ -7,7 +7,7 @@
 <h3 align="center">Mentor at ICPC Assiut Community, ECPC Finalist, and a Freelancer at Upwork and Fiverr.
 </h3>
 
-- 📫 How to reach me **m.talat7274@gmail.com**
+- 📫 How to reach me **mostafa.taal3t@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
