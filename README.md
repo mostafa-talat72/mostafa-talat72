@@ -25,7 +25,7 @@
 			alt="Mostafa_Taalat" height="40" width="40" /></a>
 	<a href="https://leetcode.com/u/Mostafa_Tal3t/" target="blank"><img align="center"
 			src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"
-			alt="Mostafa_Taalat" height="40" width="40" /></a>
+			alt="Mostafa_Taalat" height="50" width="140" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
