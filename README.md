@@ -24,7 +24,7 @@
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
 			alt="Mostafa_Taalat" height="40" width="40" /></a>
 	<a href="https://leetcode.com/u/Mostafa_Tal3t/" target="blank"><img align="center"
-			src="http://www.w3.org/2000/svg"
+			src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"
 			alt="Mostafa_Taalat" height="40" width="40" /></a>
 </p>
 
