@@ -13,16 +13,19 @@
 <p align="left">
 	<a href="https://www.linkedin.com/in/mostafa-tal3t/" target="blank"><img align="center"
 			src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png"
-			alt="kareem-khaled" height="40" width="40" /></a>
+			alt="Mostafa_Taalat" height="40" width="40" /></a>
 	<a href="https://www.fiverr.com/mostafa_tal3t" target="blank"><img align="center"
 			src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/129_Fiverr-512.png"
-			alt="kareem-khaled" height="40" width="40" /></a>
+			alt="Mostafa_Taalat" height="40" width="40" /></a>
 	<a href="https://www.upwork.com/freelancers/~0113389467ea34d5bb" target="blank"><img align="center"
-			src="https://cdn.iconscout.com/icon/free/png-256/upwork-3629131-3030271.png" alt="kareem-khaled" height="40"
+			src="https://cdn.iconscout.com/icon/free/png-256/upwork-3629131-3030271.png" alt="Mostafa_Taalat" height="40"
 			width="40" /></a>
 	<a href="https://www.hackerrank.com/Mostafa_Talat" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-			alt="kareem_khaled" height="40" width="40" /></a>
+			alt="Mostafa_Taalat" height="40" width="40" /></a>
+	<a href="https://leetcode.com/u/Mostafa_Tal3t/" target="blank"><img align="center"
+			src="http://www.w3.org/2000/svg"
+			alt="Mostafa_Taalat" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
