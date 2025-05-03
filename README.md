@@ -4,7 +4,7 @@
 	, I'm Mostafa Talat
 </h1>
 
-<h3 align="center">Mentor at ICPC Assiut Community, ECPC Finalist, and a Freelancer at Upwork and Fiverr.
+<h3 align="center">Mentor at ICPC Assiut Community, ECPC Finalist, and a Freelancer Software Enginerr.
 </h3>
 
 - 📫 How to reach me **mostafa.taal3t@gmail.com**
